@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q4',
     'points': 2,
     'suites': [   {   'cases': [   {'code': ">>> result_4.DataFrame().iloc[3, 1] == 'Trebek, Alex'\nTrue", 'hidden': False, 'locked': False},

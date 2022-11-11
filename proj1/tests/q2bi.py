@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2bi',
     'points': 2,
     'suites': [   {   'cases': [   {'code': ">>> result_2bi.DataFrame().iloc[0, 2] == 'Avatar'\nTrue", 'hidden': False, 'locked': False},

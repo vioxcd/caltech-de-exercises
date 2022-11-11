@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2aii',
     'points': 3,
     'suites': [   {   'cases': [   {'code': '>>> result_2aii.DataFrame().shape[0] == 20\nTrue', 'hidden': False, 'locked': False},
