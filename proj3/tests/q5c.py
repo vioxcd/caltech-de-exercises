@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q5c',
     'points': 3,
     'suites': [   {   'cases': [   {'code': ">>> pd.read_csv('results/result_5c.csv').shape == (2, 2)\nTrue", 'hidden': False, 'locked': False},

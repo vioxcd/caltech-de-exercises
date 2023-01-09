@@ -1,0 +1,5 @@
+subject,count
+https://brickschema.org/schema/Brick#Current_Sensor,632
+https://brickschema.org/schema/Brick#Energy_Sensor,1140
+https://brickschema.org/schema/Brick#Frequency_Sensor,163
+https://brickschema.org/schema/Brick#Voltage_Sensor,1660
