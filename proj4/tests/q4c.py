@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q4c',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> cur_test_4c = pickle.load(open("results/result_4c.p", "rb" ));\n'

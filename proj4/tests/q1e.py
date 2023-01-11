@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1e',
     'points': 2,
     'suites': [   {   'cases': [   {   'code': '>>> import pickle;\n'
